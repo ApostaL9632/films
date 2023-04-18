@@ -1,0 +1,35 @@
+h1 {
+    position: absolute;
+    left: 40%;
+}
+.films {
+    color: aliceblue;
+    max-width: 600px;
+    border-radius: 10px;
+    border: 1px solid #fffffd;
+    padding: 10px;
+    margin: 20px 0;
+    box-shadow: 8px 9px 0px -3px #ffffff;
+    position: absolute;
+    left: 400px;
+    top:100px;
+}
+p{
+    color: rgba(33, 240, 255, 0.732);
+    margin: 0 auto;
+}
+h2{
+    color: rgb(15, 255, 35);
+    margin: 0 auto;
+}
+h1{
+    color: rgb(234, 10, 10)
+    
+}
+.loader{
+    color: rgb(232, 216, 0);
+    margin: 0 auto;
+}
+.error{
+    color: rgb(235, 13, 168); 
+}
